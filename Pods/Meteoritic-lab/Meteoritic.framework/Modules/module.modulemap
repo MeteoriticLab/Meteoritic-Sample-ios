@@ -1,0 +1,11 @@
+framework module Meteoritic {
+  umbrella header "Meteoritic.h"
+
+  export *
+  module * { export * }
+}
+
+module Meteoritic.Swift {
+    header "Meteoritic-Swift.h"
+    requires objc
+}

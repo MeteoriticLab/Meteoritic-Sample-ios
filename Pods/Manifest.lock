@@ -1,0 +1,16 @@
+PODS:
+  - Meteoritic-lab (1.0.6)
+
+DEPENDENCIES:
+  - Meteoritic-lab
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Meteoritic-lab
+
+SPEC CHECKSUMS:
+  Meteoritic-lab: 9ff0ad387c02293587c96f4434e00fbfb3c51099
+
+PODFILE CHECKSUM: 3fa2fc91a982d87573926a9e826b6476804cc03c
+
+COCOAPODS: 1.7.0.beta.1
