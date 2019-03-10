@@ -1,7 +1,11 @@
+---
+
+
+---
+
 <p><img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4F771F769096EE6EDB712E8AF4AF4302AE6A389FE925C26583BAD1B21CA44E72_1552205499003_Covers.png" alt=""></p>
-<h1 id="ios"><strong>IOS</strong></h1>
-<p>Meteoritic is a mobile library for Android and iOS that renders screen effects and animation delights to help drive user engagement. Visit <img src="https://paper.dropboxstatic.com/static/img/ace/emoji/1f449.png?version=3.1.2" alt="backhand index pointing right" title="backhand index pointing right">  <a href="https://meteoritic.io">https://meteoritic.io</a> to learn more</p>
-<h2 id="watch-video"><a href="https://www.youtube.com/watch?v=vJ44sbieN9o&amp;feature=youtu.be">Watch Video</a></h2>
+<h2 id="meteoritic-is-a-mobile-library-for-ios--and-android-that-renders-screen-effects-and-animation-delights-to-help-drive-user-engagement.-visit-httpsmeteoritic.io-to-learn-more."><strong>Meteoritic is a mobile library for iOS  and Android that renders screen effects and animation delights to help drive user engagement. Visit</strong> <a href="https://meteoritic.io/"><strong>https://meteoritic.io</strong></a> <strong>to learn more.</strong></h2>
+<h2 id="watch-launch-trailer"><a href="https://www.youtube.com/watch?v=vJ44sbieN9o&amp;feature=youtu.be"><strong>Watch launch Trailer</strong></a></h2>
 <p><img src="https://d2mxuefqeaa7sj.cloudfront.net/s_BA7530E4BD98B6BA75BDBC3F98D63BE732EC542E67CA0C167FE79685411A5908_1547883458665_Box-Of-Gifts.gif" alt=""><img src="https://d2mxuefqeaa7sj.cloudfront.net/s_BA7530E4BD98B6BA75BDBC3F98D63BE732EC542E67CA0C167FE79685411A5908_1547883533002_Dangling-Astronaut-.gif" alt=""><img src="https://d2mxuefqeaa7sj.cloudfront.net/s_BA7530E4BD98B6BA75BDBC3F98D63BE732EC542E67CA0C167FE79685411A5908_1547883922082_jumping-Sports.gif" alt=""></p>
 <h2 id="this-is-a-sample-repo-to-help-you-try-out-meteoritic-library-and-test-out-its-features.-also-check-out-the-android-repo.">This is a sample repo to help you try out Meteoritic library and test out its features. Also check out the <a href="https://github.com/MeteoriticLab/MeteoriticSample-Android">Android repo.</a></h2>
 <h2 id="installing-meteoritic-on-ios">Installing Meteoritic on iOS</h2>
