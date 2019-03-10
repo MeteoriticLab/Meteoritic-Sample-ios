@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README.md</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__html"><p><img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4F771F769096EE6EDB712E8AF4AF4302AE6A389FE925C26583BAD1B21CA44E72_1552205499003_Covers.png" alt=""></p>
+<p><img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4F771F769096EE6EDB712E8AF4AF4302AE6A389FE925C26583BAD1B21CA44E72_1552205499003_Covers.png" alt=""></p>
 <h1 id="ios"><strong>IOS</strong></h1>
 <p>Meteoritic is a mobile library for Android and iOS that renders screen effects and animation delights to help drive user engagement. Visit <img src="https://paper.dropboxstatic.com/static/img/ace/emoji/1f449.png?version=3.1.2" alt="backhand index pointing right" title="backhand index pointing right">  <a href="https://meteoritic.io">https://meteoritic.io</a> to learn more</p>
 <h2 id="watch-video"><a href="https://www.youtube.com/watch?v=vJ44sbieN9o&amp;feature=youtu.be">Watch Video</a></h2>
@@ -25,7 +14,4 @@
 <p><code>self.addMeteoriticAnimation(“themId”)</code></p>
 <p><img src="https://d2mxuefqeaa7sj.cloudfront.net/s_26AB05759796B9D16CB147B31829F2C1ECF81E79DF5D1294BEF321A2BB814E39_1551198092543_Screen+Shot+2019-02-26+at+6.03.01+PM.png" alt=""></p>
 <p><img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4F771F769096EE6EDB712E8AF4AF4302AE6A389FE925C26583BAD1B21CA44E72_1551961173669_Screen+Shot+2019-02-26+at+6.08.13+PM.png" alt=""></p>
-</div>
-</body>
 
-</html>
